@@ -18,4 +18,5 @@ Console-based student management system developed in C++.
 
 ## How to Run
 g++ *.cpp -o student -lssl -lcrypto 
+
 ./student
